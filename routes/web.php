@@ -14,3 +14,7 @@ use Modules\User\Http\Controllers\UserController;
 |
 */
 
+route::get('/ali',function(){
+
+  return 1;
+});
