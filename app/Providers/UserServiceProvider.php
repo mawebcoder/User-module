@@ -7,7 +7,7 @@ use Illuminate\Support\ServiceProvider;
 
 class UserServiceProvider extends ServiceProvider
 {
-    protected string $moduleName = 'User';
+    protected string $moduleName = 'user';
 
     protected string $moduleNameLower = 'user';
 
