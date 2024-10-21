@@ -21,6 +21,6 @@ route::get('/ali',function(){
 
 route::get('/jafar',function(){
 
-  return 70;
+  return 80;
 });
 
