@@ -16,5 +16,11 @@ use Modules\User\Http\Controllers\UserController;
 
 route::get('/ali',function(){
 
-  return 21;
+  return 70;
 });
+
+route::get('/jafar',function(){
+
+  return 70;
+});
+
